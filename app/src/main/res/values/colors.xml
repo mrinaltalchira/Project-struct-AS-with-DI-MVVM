@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorSecondary">#737D91</color>
+    <color name="windowBackground">#FFFFFFFF</color>
+    <color name="textColor">#FF000000</color>
+    <color name="disabled_color">#CFD6E4</color>
+    <color name="search_view_color">#F3F7FF</color>
+    <color name="viewBg">#E3E6EC</color>
+
+    <color name="gray_dark">#505050</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="window_bg_color">#F9F9FC</color>
+    <color name="view_color">#EDF0F8</color>
+    <color name="blue">#1835D1</color>
+    <color name="light_blue">#F3F7FF</color>
+    <color name="linkMentions">#0D3C6F</color>
+    <color name="red">#FF4747</color>
+
+    <color name="app_background">#1C1717</color>
+    <color name="gray_lite">#CAC8C8</color>
+    <color name="text_color">#ffffff</color>
+    <color name="disable_button">#34383D</color>
+    <color name="transp">#00ffffff</color>
+    <color name="text_color_pink">#E6C6EF</color>
+
+</resources>

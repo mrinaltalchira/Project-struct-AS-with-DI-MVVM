@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "505581055463",
+    "project_id": "beyou-88622",
+    "storage_bucket": "beyou-88622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505581055463:android:d150a97fa0dc47cc096142",
+        "android_client_info": {
+          "package_name": "app.Project_setup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505581055463-1cq435dppk8d915eu3ng8b1okvt8rhs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Project_setup",
+            "certificate_hash": "fc9f321d47592bf6ca01bf25313a14c7ecdeec42"
+          }
+        },
+        {
+          "client_id": "505581055463-b970ki6dqmeqfro75kftv9b19mb53bcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Project_setup",
+            "certificate_hash": "95c601c4b21708a7241b268e3fad59b6ad0d6742"
+          }
+        },
+        {
+          "client_id": "505581055463-hi2vpg6se7fetf37mjrq7eu1kqe0p1bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Project_setup",
+            "certificate_hash": "c664ed0279a958bd92390a6c39cee8f4e7d02461"
+          }
+        },
+        {
+          "client_id": "505581055463-uvt1muv9k8hj8smgaqj36e6rgsqmlsaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Project_setup",
+            "certificate_hash": "5bfc68a21dc88590d59d76b2a729b33bc84de961"
+          }
+        },
+        {
+          "client_id": "505581055463-pf70n51kqnbm8sucp4dvneagbhhgilsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3skouKs045qQehoS2DhP3aD4OvyNXxQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505581055463-pf70n51kqnbm8sucp4dvneagbhhgilsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505581055463-8apc45ptn2603t1or432oold3k9bo5g5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.be-you"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

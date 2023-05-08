@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>config_development</key>
+        <value>{"baseUrl":"https://teesas.com/","apiVersion":"V2/"}</value>
+    </entry>
+    <entry>
+        <key>config_production</key>
+        <value>{"baseUrl":"https://teesas.com/","apiVersion":"V2/"}</value>
+    </entry>
+</defaultsMap>

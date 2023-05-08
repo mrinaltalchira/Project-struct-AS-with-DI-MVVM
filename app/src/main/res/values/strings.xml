@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Spacean</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="reset_password">Reset Password</string>
+    <string name="fcm_connection_message_error">Error while fetching config from firebase.</string>
+    <string name="fcm_connection_message_success">Config fetched successfully.</string>
+    <string name="close">Close</string>
+    <string name="server_error">Failed to connect with server. please try again</string>
+    <string name="updating_app">We\'are updating our application please wait for some time.</string>
+    <string name="updating_error">Error while updating the app. please try again after some time.</string>
+    <string name="common_server_error">We\'re facing some server issue that time please try again.</string>
+    <string name="password_change_success">Password Change Successfully.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit">Edit</string>
+    <string name="report_post">Report Post</string>
+    <string name="why_are_you_reporting_this_comment">Why are you reporting this comment?</string>
+    <string name="why_are_you_reporting_this_post">Why are you reporting this post?</string>
+    <string name="why_are_you_reporting_this_user">Why are you reporting this user?</string>
+    <string name="you_report_is_anonymous_except_if_you_re_reporting_an_intellectual_property_infringement">You report is anonymous, except if you\'re reporting an intellectual property infringement.</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_reason">Please select reason.</string>
+    <string name="be_you_location_permission">Be you access your location to find relevant posts nearby.</string>
+    <string name="facebook_error">Getting issue from facebook</string>
+    <string name="your_password_must_be_at_least_6_characters_and_should_include_a_combination_of_numbers_letters_and_special_characters">Your password must be at least 6 characters and should include a combination of numbers, letters and special characters(!@#$%)</string>
+    <string name="allow_media_camera">Allow media, camera</string>
+    <string name="be_you_access_camera">Be you need access to a camera\'s media to share photos and videos.</string>
+    <string name="you_have_denied_photo_library">You have denied photo library access to use photos in be you app turn on the access.</string>
+    <string name="access_to_photo_library">Access To Photo Library</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+
+
+</resources>
